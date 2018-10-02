@@ -1,0 +1,42 @@
+body {
+    font-family: Roboto, SansSerif, sans-serif;
+    background-color: lightslategrey;
+    font-color: white;
+}
+.titel {
+    color: orange;
+}
+
+a:hover {
+    font-size: 20px;
+    color: orange;
+}
+
+#woohah {
+    background-color: lightskyblue;
+    border-style: inset;
+    border-width: 3px;
+    border-color: black;
+    margin: 0px 20px 0px 20px;
+
+        }
+#pkp {
+    background-color: lightyellow;
+    border-style: inset;
+    border-width: 3px;
+    border-color: black;
+    margin: 0px 20px 0px 20px;
+
+    }
+
+.klasse {
+    display: inline;
+
+    list-style-type: none;
+
+        }
+
+
+
+
+
